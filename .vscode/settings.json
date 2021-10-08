@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 25,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "prettier.enableDebugLogs": true,
+    "prettier.insertPragma": true,
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.requireConfig": true,
+    "prettier.requirePragma": true
+}
